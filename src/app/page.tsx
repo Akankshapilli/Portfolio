@@ -177,35 +177,6 @@ export default function Home() {
                 </svg>
               </div>
               <div className="text-white">
-                <p className="font-semibold text-2xl">iOS App Development</p>
-                <p
-                  className="mt-2 ml-8 w-96 text-justify font-base text-lg "
-                  style={{ width: "600px" }}
-                >
-                  Transforming innovative concepts into visually stunning
-                  interfaces on iOS devices, with a keen focus on usability,
-                  consistency, and brand identity, enhancing your digital
-                  presence and user engagement.
-                </p>
-              </div>
-            </li>
-            <li className="relative flex mt-6 gap-6 pb-5">
-              <div className="before:absolute before:top-7 before:left-3.5 before:h-full before:w-[6px] before:bg-white">
-                <svg
-                  xmlns="http://www.w3.org/2000/svg"
-                  width="35px"
-                  height="35px"
-                  viewBox="0 0 24 24"
-                >
-                  <path
-                    fill="white"
-                    stroke="white"
-                    stroke-width="2"
-                    d="M12 2C6.47 2 2 6.47 2 12s4.47 10 10 10s10-4.47 10-10S17.53 2 12 2m0 18c-4.42 0-8-3.58-8-8s3.58-8 8-8s8 3.58 8 8s-3.58 8-8 8"
-                  />
-                </svg>
-              </div>
-              <div className="text-white">
                 <p className="font-semibold text-2xl">Visual Design Harmony</p>
                 <p
                   className="mt-2 ml-8 w-96 text-justify font-base text-lg "

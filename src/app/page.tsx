@@ -246,6 +246,9 @@ export default function Home() {
               <div className="text-white">
                 <p className="font-semibold text-2xl">2024</p>
                 <p className="mt-4 ml-8 w-96 text-justify font-base text-lg">
+                  UI/UX Designer Intern at Coding Samurai
+                </p>
+                <p className="mt-6 ml-8 w-96 text-justify font-base text-lg">
                   UI/UX Designer Intern at CodSoft
                 </p>
                 <p className="mt-6 ml-8 w-96 text-justify font-base text-lg">
